@@ -3,14 +3,14 @@ body {
 }
 
 .btn {
-	color: var(--seafoam-green); 
-	border-color: var(--seafoam-green);
+	color: var(--sea-foam-green); 
+	border-color: var(--sea-foam-green);
 	font-size: 1.5rem;
 }
 
 .card {
 	background-color: var(--dark);
-	border-color: var(--seafoam-green);
+	border-color: var(--sea-foam-green);
 	margin: 1rem;
 }
 
@@ -27,6 +27,11 @@ body {
 .image-right {
 	float: right;
 	margin-left: 1rem;
+}
+
+h1 {
+	color: var(--sea-foam-green);
+	font-size: 500%;
 }
 
 h3 {
