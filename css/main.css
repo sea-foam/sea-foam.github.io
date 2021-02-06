@@ -1,0 +1,9 @@
+body {
+	background-color: var(--dark);
+}
+
+.btn {
+	color: var(--seafoam-green); 
+	border-color: var(--seafoam-green);
+	font-size: 2rem;
+}
